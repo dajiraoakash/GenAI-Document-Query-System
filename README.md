@@ -31,6 +31,7 @@ This project demonstrates a secure method of generating SQL queries using LangCh
 3. To generate queries for your own questions, upload the Database or use sample one and then write your query:
    
 ## How It Works
+![alt text](image.png)
 
 1. **Schema Extraction**: The script connects to the database and extracts its schema (table names and column details) without accessing the actual data.
 
